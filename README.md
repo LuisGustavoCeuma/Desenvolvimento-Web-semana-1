@@ -11,9 +11,3 @@ Blog em HTML com estrutura semântica e formulário de inscrição.
 - `<header>` com `<h1>` e nav com 3 links
 - `<main>` com 2 `<article>` (Variáveis e Listas), cada um com `<h2>`, `<p>` e `<img>`
 - `<aside>` com formulário `method="get"`: nome (mín. 3 letras), e-mail, idade (18 a 120), `<select>` com 3 assuntos e checkbox de termos
-
-## Como testar
-
-- Abra o arquivo no navegador.
-- Envie o formulário com campos vazios e preenchidos: os dados devem aparecer na URL.
-- Confira a hierarquia de títulos com o validador: https://validator.w3.org
